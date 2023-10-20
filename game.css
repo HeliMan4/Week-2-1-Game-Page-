@@ -1,0 +1,105 @@
+body {
+    background-color: black;
+    color: white;
+}
+nav {
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer {
+    text-align: center;
+    margin-right: 200px;
+}
+
+#memeImage {
+    margin-right: 200px;
+}
+
+header {
+    text-align: center;
+}
+
+html {
+    background-color: black;
+}
+
+body {
+    color: white;
+    font-size: medium;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-align: center;
+}
+
+img {
+    border-width: 5px;
+    border-radius: 20px;
+    border-color: #fafafa;
+}
+
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    border: #fafafa;
+    border-style: solid;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: rgb(71, 28, 28);
+}
+
+h2 {
+    text-align: center;
+    font-size: x-large;
+    line-height: 35px;
+    border: #fafafa;
+    border-style: solid;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: rgb(71, 28, 28);
+}
+
+p {
+    text-align: left;
+}
+
+button {
+    font-family: 'Courier New', Courier, monospace, bold;
+    font-weight: bolder;
+    letter-spacing: 20px;
+    color: transparent;
+    background: rgb(71, 28, 28);
+    text-shadow: 0px 2px 1px rgb(255, 255, 255);
+    height: 80px;
+    width: 100%;
+    font-size: 75px;
+    line-height: 5px;
+    border: 3px;
+    border-color: #ffffff;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+div {
+    text-transform: uppercase;
+}
+
+table,
+th,
+tr {
+    border: outset white;
+    border-style: solid;
+    text-transform: uppercase;
+    font-size: large;
+    border-radius: 20px;
+    align-items: center;
+    line-height: 100%;
+}
